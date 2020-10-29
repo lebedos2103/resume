@@ -20,7 +20,7 @@ I am studying at BSUIR at Faculty of Computer Networks and Systems, specializing
 * MS SQL
 
 ## EXPERIENCE
-You can see the latest frond-end projects here: https://github.com/lebedos2103
+You can see the latest frond-end projects here: [https://github.com/lebedos2103](https://github.com/lebedos2103)  
 Unfortunately, I did not upload my .net projects to github. Therefore, I will simply describe them:
 * Course project on networks (tic-tac-toe online, with the possibility of correspondence while playing with an 
 opponent, viewing player profiles, as well as authorization, all data was stored in MSSQL).
@@ -37,6 +37,6 @@ plugins for compression, encryption, etc. were also developed).
 * B1 - grammar
 
 ## PURPOSE AND WISHES
-I am very interested in internship for Junior .NET Full Stack. 
-I am also interested in passing your summer practice from the university. 
-I'm looking forward to further partnership.
+I am very interested in internship for Junior .NET Full Stack.  
+I am also interested in passing your summer practice from the university.  
+I'm looking forward to further partnership.  
